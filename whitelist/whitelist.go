@@ -432,5 +432,13 @@ var (
       "0xeE80b4711c316D66bE0A0865838a8A45e71618E7"
     ]
   }
+  {
+    "name": "EVM Warfare",
+    "slug": "evm-wafare",
+    "contracts": [
+      "0xB89085fF994F682b367E0c5D809658D45E596a3A",
+      "0x21DFb5E60ED63890Df0FEE14a4D949A766c3dD2F",
+      "0x5F2950DB166CCf8652423C2884A37a13C70Fc0EB"
+  }
 ]`
 )
